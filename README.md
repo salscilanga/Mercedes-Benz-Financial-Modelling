@@ -41,7 +41,7 @@ I also performed sensitivity analysis using different WACC and terminal growth a
 | EBIT (€m) | 5,820 | 11,153 |
 | EBIT Margin | 4.4% | 7.5% |
 | Modelled FCF (€m) | 1,671 | 5,649 |
-
+![Revenue and EBIT Trend](REVENUE_EBIT.png)
 The forecasts assume a recovery in operating profitability over the period, with improving EBIT margins and cash flow generation.
 
 ## Valuation Results
@@ -66,7 +66,7 @@ The forecasts assume a recovery in operating profitability over the period, with
 | Bear | €127.76 |
 | Base | €146.38 |
 | Bull | €169.21 |
-
+![Valuation Range](Valuation_range.png)
 ## Investment Conclusion
 
 Based on my valuation, Mercedes-Benz has an estimated value of €146.38 per share in the base case, compared with a reference market price of €41.28. This represents a potential upside of approximately 255%.
